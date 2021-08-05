@@ -1,2 +1,2 @@
 # TASK5
-Login page and access to the robot control pageز
+Login page and access to the robot control page.
